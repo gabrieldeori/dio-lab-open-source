@@ -4,6 +4,13 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
+### Confira aqui o resultado do meu projeto:
+<a href="./community/gabrieldeori.md"><img width=200 alt="Conheça meu GitHub" src="https://img.shields.io/badge/Resultado_do_Desafio-6A1B92"></a> 
+
+<a href="https://github.com/gabrieldeori"><img width=200 alt="Conheça_meu_GitHub" src="https://img.shields.io/badge/Conheça-Meu_Github-6A1B92.svg?logo=github&logoColor=6A1B92"></a>
+
+---
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
